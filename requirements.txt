@@ -1,0 +1,29 @@
+# Sunshine Estate Management System - Requirements
+# Python 3.8+
+
+# Core Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Database
+mysql-connector-python>=8.0.33
+
+# PDF Generation
+fpdf2>=2.7.0
+
+openpyxl>=3.1.2
+
+# Email functionality (built-in with Python, no install needed)
+# smtplib - built-in
+# email - built-in
+
+# Other built-in modules (no installation needed)
+# datetime - built-in
+# io - built-in
+# tempfile - built-in
+# os - built-in
+# re - built-in
+# traceback - built-in
+# decimal - built-in
